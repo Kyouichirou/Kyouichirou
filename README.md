@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 I'm a data analyst/developer.
 
+**Major in:**
+
+- Operational Research
+- Regression analysis
+
 My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
 
 ----
@@ -28,36 +33,7 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
 <table>
     <tbody>
         <tr>
-            <td valign="top" width="50%">
-                <h3 id="Major">Major</h3>
-                <div align="center">
-                        <a href="https://developers.google.cn/optimization/introduction" target="_blank">运筹学</a>
-                        <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html" target="_blank">回归分析</a>
-                </div>
-            </td>
-            <td valign="top" width="50%">
-                <h3 id="Math">Math</h3>
-                <div align="center">
-                    <a href="https://developers.google.cn/optimization" target="_blank" title="Google OR-Tools"><img
-                            style="margin: 10px"
-                            src="https://developers.google.cn/static/optimization/images/orLogo.png" alt="JavaScript"
-                            height="50"></a>
-                    <a href="https://scikit-learn.org/stable/index.html" target="_blank" title="Scikit-Learn"><img
-                            style="margin: 10px"
-                            src="https://analyticsdrift.com/wp-content/uploads/2021/04/Scikit-learn-free-course-768x432.jpg"
-                            alt="scikit-learn" height="50"></a>
-                    <a href="https://scipy.org/" target="_blank" title="Scipy"><img style="margin: 10px"
-                            src="https://scipy.org/images/favicon.ico" alt="Streamlit" height="50"></a>
-                </div>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
-        <tr>
-            <td valign="top" width="33%">
+            <td valign="top" width="25%">
                 <h3 id="frontend">Frontend</h3>
                 <div align="center">
                     <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img style="margin: 10px"
@@ -70,7 +46,7 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
                             src="https://streamlit.io/favicon.svg" alt="Streamlit" height="50"></a>
                 </div>
             </td>
-            <td valign="top" width="33%">
+            <td valign="top" width="25%">
                 <h3 id="backend">Backend</h3>
                 <div align="center">
                     <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img style="margin: 10px"
@@ -90,7 +66,22 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
                             height="50"></a>
                 </div>
             </td>
-            <td valign="top" width="33%">
+            <td valign="top" width="25%">
+                <h3 id="Math">Math</h3>
+                <div align="center">
+                    <a href="https://developers.google.cn/optimization" target="_blank" title="Google OR-Tools"><img
+                            style="margin: 10px"
+                            src="https://developers.google.cn/static/optimization/images/orLogo.png" alt="JavaScript"
+                            height="50"></a>
+                    <a href="https://scikit-learn.org/stable/index.html" target="_blank" title="Scikit-Learn"><img
+                            style="margin: 10px"
+                            src="https://analyticsdrift.com/wp-content/uploads/2021/04/Scikit-learn-free-course-768x432.jpg"
+                            alt="scikit-learn" height="50"></a>
+                    <a href="https://scipy.org/" target="_blank" title="Scipy"><img style="margin: 10px"
+                            src="https://scipy.org/images/favicon.ico" alt="Streamlit" height="50"></a>
+                </div>
+            </td>
+            <td valign="top" width="25%">
                 <h3 id="devops">DevOps</h3>
                 <div align="center">
                     <a href="https://www.linux.org/" target="_blank" title="Linux"><img style="margin: 10px"
