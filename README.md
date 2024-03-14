@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi, welcome to my github. 👋
 
-I'm a data developer.
+I'm a data analyst/developer.
 
 My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
 
