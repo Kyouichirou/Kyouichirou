@@ -25,7 +25,7 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
 
 ## My Skill Set
 
-<table width="100% !important">
+<table style="width: 100% !important">
     <tbody>
         <tr>
             <td valign="top" width="50%">
