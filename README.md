@@ -34,7 +34,7 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
                     <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px"
                             src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"
                             height="50"></a>
-                    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px"
+                    <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px"
                             src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRlZS5jb20vbmJvZHlmdW4vdGVjaG5pY2FsX2Vzc2F5L3Jhdy9tYXN0ZXIvcmVzL2p1cHl0ZXIucG5n?x-oss-process=image/format,png"
                             alt="Jupyter Notebook" height="50"></a>
                     <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px"
