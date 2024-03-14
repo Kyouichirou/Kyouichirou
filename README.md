@@ -28,7 +28,7 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
 <table>
     <tbody>
         <tr>
-            <td valign="top" width="50%">
+            <td valign="top" width="33%">
                 <h3 id="Math">Math</h3>
                 <div align="center">
                     <a href="https://developers.google.cn/optimization" target="_blank" title="Google OR-Tools"><img
@@ -43,7 +43,7 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
                             src="https://scipy.org/images/favicon.ico" alt="Streamlit" height="50"></a>
                 </div>
             </td>
-            <td valign="top" width="50%">
+            <td valign="top" width="33%">
                 <h3 id="Major">Major</h3>
                 <div align="center">
                     <a href="https://www.mongodb.com/" target="_blank">运筹学<img style="margin: 10px"
