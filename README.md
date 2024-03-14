@@ -29,6 +29,13 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
     <tbody>
         <tr>
             <td valign="top" width="50%">
+                <h3 id="Major">Major</h3>
+                <div align="center">
+                        <a href="https://developers.google.cn/optimization/introduction" target="_blank">运筹学</a>
+                        <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html" target="_blank">回归分析</a>
+                </div>
+            </td>
+            <td valign="top" width="50%">
                 <h3 id="Math">Math</h3>
                 <div align="center">
                     <a href="https://developers.google.cn/optimization" target="_blank" title="Google OR-Tools"><img
@@ -41,18 +48,6 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
                             alt="scikit-learn" height="50"></a>
                     <a href="https://scipy.org/" target="_blank" title="Scipy"><img style="margin: 10px"
                             src="https://scipy.org/images/favicon.ico" alt="Streamlit" height="50"></a>
-                </div>
-            </td>
-            <td valign="top" width="50%">
-                <h3 id="Major">Major</h3>
-                <div align="center">
-                        <a href="https://developers.google.cn/optimization/introduction" target="_blank">运筹学<img style="margin: 5px"
-                            src="https://prod-discovery.edx-cdn.org/media/course/image/15eed4cc-21c1-4107-80a0-d1057bc8f7ea-186b2ed21c9c.small.jpeg"
-                            alt="MongoDB" height="30"></a>
-                    <div>-----------------</div>
-                        <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html" target="_blank">回归分析<img style="margin: 5px"
-                            src="https://tse1-mm.cn.bing.net/th/id/OIP-C.Ng7iyHe-Yu1swIC_Jkoz4wHaE8?rs=1&pid=ImgDetMain"
-                            alt="MongoDB" height="30"></a>
                 </div>
             </td>
         </tr>
