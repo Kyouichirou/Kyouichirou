@@ -46,18 +46,13 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
             <td valign="top" width="50%">
                 <h3 id="Major">Major</h3>
                 <div align="center">
-                    <ul>
-                    <li>
-                        <a href="https://www.mongodb.com/" target="_blank">运筹学<img style="margin: 10px"
+                        <a href="https://developers.google.cn/optimization/introduction" target="_blank">运筹学<img style="margin: 5px"
                             src="https://prod-discovery.edx-cdn.org/media/course/image/15eed4cc-21c1-4107-80a0-d1057bc8f7ea-186b2ed21c9c.small.jpeg"
-                            alt="MongoDB" height="50"></a>
-                    </li>
-                    <li>
-                        <a href="https://www.mongodb.com/" target="_blank">回归分析<img style="margin: 10px"
+                            alt="MongoDB" height="30"></a>
+                    <div>-----------------</div>
+                        <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html" target="_blank">回归分析<img style="margin: 5px"
                             src="https://tse1-mm.cn.bing.net/th/id/OIP-C.Ng7iyHe-Yu1swIC_Jkoz4wHaE8?rs=1&pid=ImgDetMain"
-                            alt="MongoDB" height="50"></a>
-                    </li>
-                    </ul>
+                            alt="MongoDB" height="30"></a>
                 </div>
             </td>
         </tr>
@@ -114,4 +109,3 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
         </tr>
     </tbody>
 </table>
-
