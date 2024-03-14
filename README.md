@@ -25,10 +25,10 @@ My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
 
 ## My Skill Set
 
-<table>
+<table width="100% !important">
     <tbody>
         <tr>
-            <td valign="top" width="33%">
+            <td valign="top" width="50%">
                 <h3 id="Math">Math</h3>
                 <div align="center">
                     <a href="https://developers.google.cn/optimization" target="_blank" title="Google OR-Tools"><img
