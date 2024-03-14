@@ -22,7 +22,7 @@ I'm a data analyst/developer.
 **Major in:**
 
 - Operational Research
-- Regression analysis
+- Regression Analysis
 
 My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
 
