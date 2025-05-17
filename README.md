@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://kyouichirou.github.io/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=kyouichirou&show_icons=true&count_private=false&theme=vue-dark" /></a>
+<a href="https://lianhwang.netlify.app/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=kyouichirou&show_icons=true&count_private=false&theme=vue-dark" /></a>
 
 ### Hi, welcome to my github. 👋
 
@@ -24,7 +24,7 @@ I'm a data analyst/developer.
 - Operational Research
 - Regression Analysis
 
-My website: [kyouichirou.github.io](https://kyouichirou.github.io/)
+My website: [Lian](https://lianhwang.netlify.app/)
 
 ----
 
