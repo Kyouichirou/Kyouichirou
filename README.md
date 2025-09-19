@@ -22,7 +22,6 @@ I'm a data analyst/developer.
 **Major in:**
 
 - Operational Research
-- Regression Analysis
 
 My website: [Lian](https://lianhwang.netlify.app/)
 
