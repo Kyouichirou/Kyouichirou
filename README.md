@@ -13,17 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://lianhwang.netlify.app/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=kyouichirou&show_icons=true&count_private=false&theme=vue-dark" /></a>
-
 ### Hi, welcome to my github. 👋
 
-I'm a data analyst/developer.
+I'm a ***data analyst/developer***.
 
-**Major in:**
+**Major in:**  ***operational research***
 
-- Operational Research
-
-My website: [Lian](https://lianhwang.netlify.app/)
+My website:  [Lian](https://lianhwang.netlify.app/)
 
 ----
 
